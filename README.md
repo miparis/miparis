@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Miranda!
 
-🚀 About Me
 I am a UX Designer currently diving into programming through the common core of 42 Madrid.
 
 🤝 Let's Connect!
