@@ -10,7 +10,3 @@ You can find me on:
 
 [42 Projects by miparis](https://miparis.gitbook.io/42bymiparis/)
 
-📊 GitHub Stats
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[miparis]&show_icons=true&theme=radical)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[miparis]&layout=compact&theme=radical)
-
