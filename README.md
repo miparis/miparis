@@ -10,7 +10,6 @@ LinkedIn: (https://www.linkedin.com/in/miranda-paris-37737b248?lipi=urn%3Ali%3Ap
 
 Documentation: (https://miparis.gitbook.io/42bymiparis/)
 
-
 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[miparis]&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[miparis]&layout=compact&theme=radical)
