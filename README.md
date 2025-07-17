@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Miranda!
 
-<!--
-**miparis/miparis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I am a UX Designer currently diving into programming through the common core of 42 Madrid.
 
-Here are some ideas to get you started:
+🤝 Let's Connect!
+You can find me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: (https://www.linkedin.com/in/miranda-paris-37737b248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVAq8XWtiSRmjLLkibs1nsA%3D%3D)
+
+Documentation: (https://miparis.gitbook.io/42bymiparis/)
+
+
+📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[miparis]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[miparis]&layout=compact&theme=radical)
+
